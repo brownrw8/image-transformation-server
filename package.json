@@ -1,0 +1,18 @@
+{
+  "name": "image-transformation-server",
+  "version": "1.0.0",
+  "description": "image transformation api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-fileupload": "^0.1.4",
+    "jimp": "^0.2.28",
+    "random-seed": "^0.3.0",
+    "uuid": "^3.1.0"
+  }
+}
